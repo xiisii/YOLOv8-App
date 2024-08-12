@@ -1,0 +1,3 @@
+# label:color_rgb:parts:actions
+Cat:96,128,192::
+background:0,0,0::

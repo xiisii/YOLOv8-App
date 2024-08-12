@@ -1,0 +1,6 @@
+path: C:/Users/hvthy/Desktop/DoAn2/SEGMENTATION/Data/Data_v7/Dataset
+train: images/train 
+val: images/val  
+
+nc: 1
+names: ["Dog"]

@@ -1,0 +1,15 @@
+data/obj_train_data/cats_000.jpg
+data/obj_train_data/cats_007.jpg
+data/obj_train_data/cats_050.jpg
+data/obj_train_data/cats_072.jpg
+data/obj_train_data/cats_076.jpg
+data/obj_train_data/cats_079.jpg
+data/obj_train_data/cats_088.jpg
+data/obj_train_data/cats_091.jpg
+data/obj_train_data/cats_099.jpg
+data/obj_train_data/cats_100.jpg
+data/obj_train_data/cats_groups_031.jpg
+data/obj_train_data/cats_groups_039.jpg
+data/obj_train_data/cats_groups_057.jpg
+data/obj_train_data/cats_groups_090.jpg
+data/obj_train_data/cats_groups_092.jpg
